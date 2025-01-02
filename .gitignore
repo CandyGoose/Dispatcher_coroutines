@@ -1,0 +1,9 @@
+# Clangd
+.cache
+compile_commands.json
+
+# Output
+build/
+*.o
+
+example
